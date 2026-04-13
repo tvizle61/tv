@@ -1,76 +1,23 @@
-#EXTINF:-1,====TURK====
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/637
-#EXTINF:-1,ATV.HD
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/638
-#EXTINF:-1,FOX.TV
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/639
-#EXTINF:-1,KANAL.D
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/640
-#EXTINF:-1,SHOW.TV
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/641
-#EXTINF:-1,STAR.TV
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/642
-#EXTINF:-1,EURO.STAR
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/646
-#EXTINF:-1,EURO.D
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/645
-#EXTINF:-1,TV8
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/643
-#EXTINF:-1,BEYAZ.TV
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/644
-#EXTINF:-1,A2.TV
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/647
-#EXTINF:-1,A Haber
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/7063
-#EXTINF:-1,beIN SPORTS HD 1
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/630
-#EXTINF:-1,beIN SPORTS HD 2
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/631
-#EXTINF:-1,beIN SPORTS HD 3
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/632
-#EXTINF:-1,beIN SPORTS HD 4
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/2840
-#EXTINF:-1,Smart.SPOR1
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/633
-#EXTINF:-1,Smart.SPOR2
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/634
-#EXTINF:-1,tivibu SPORT 1
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/635
-#EXTINF:-1,tivibu.SPORT2
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/636
-#EXTINF:-1,A Sport
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/7062
-#EXTINF:-1,S SPORT +1
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/7188
-#EXTINF:-1,S SPORT +2
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/7189
-#EXTINF:-1,NATIONAL.GO
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/931
-#EXTINF:-1,NATIONAL.GO.WILD
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/932
-#EXTINF:-1,TRT1
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/743
-#EXTINF:-1,TRT.Belgesel
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/746
-#EXTINF:-1,TRT.Cokuk
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/747
-#EXTINF:-1,TRT.Haber
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/745
-#EXTINF:-1,TRT.Sport
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/748
-#EXTINF:-1,TRT.Turk
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/744
-#EXTINF:-1,TRT DIYANET
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/8142
-#EXTINF:-1,Kral.Pop
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/750
-#EXTINF:-1,KRTV
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/749
-#EXTINF:-1,Vav TV
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/751
-#EXTINF:-1,Zarok.TV
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/2418
-#EXTINF:-1,NTV (turk)
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/3396
-#EXTINF:-1,CNN turk
-http://jarodtv62000.com:8000/Benzemirli_fethi@algerie/31082024@fethi/3457
+#EXTM3U
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: FOX HD" tvg-logo="https://logo.m3uassets.com/fox.png" group-title="TR| ULUSAL",TR: FOX HD
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42401
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: TV 8 HD" tvg-logo="https://logo.m3uassets.com/tv8.png" group-title="TR| ULUSAL",TR: TV 8 HD
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42389
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: TV 8 HD PLUS" tvg-logo="https://logo.m3uassets.com/plustv.png" group-title="TR| ULUSAL",TR: TV 8 HD PLUS
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42388
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: TV 8 5 HD" tvg-logo="https://logo.m3uassets.com/tv85.png" group-title="TR| ULUSAL",TR: TV 8 5 HD
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42387
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: TV 8 5 HD PLUS" tvg-logo="https://logo.m3uassets.com/5plus.png" group-title="TR| ULUSAL",TR: TV 8 5 HD PLUS
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42386
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: A2 HD" tvg-logo="https://logo.m3uassets.com/a2.png" group-title="TR| ULUSAL",TR: A2 HD
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42383
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: BEYAZ TV HD" tvg-logo="https://logo.m3uassets.com/beyaztv.png" group-title="TR| ULUSAL",TR: BEYAZ TV HD
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42381
+#EXTINF:-1 tvg-id="360tv.tr" tvg-name="TR: 360 TV HD" tvg-logo="https://logo.m3uassets.com/360tv.png" group-title="TR| ULUSAL",TR: 360 TV HD
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42407
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: KANAL 7 HD" tvg-logo="https://logo.m3uassets.com/kanal7.png" group-title="TR| ULUSAL",TR: KANAL 7 HD
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42372
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: KANAL 7 HD" tvg-logo="https://logo.m3uassets.com/kanal7.png" group-title="TR| ULUSAL",TR: KANAL 7 HD
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42373
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: KANAL 7 EU" tvg-logo="https://logo.m3uassets.com/kanal7.png" group-title="TR| ULUSAL",TR: KANAL 7 EU
+http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42371
