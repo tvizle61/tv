@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,ATV TURK
-http://www.teledunet.com:8080/tdn/tdn/645.ts
+http://www.teledunet.com:8080/tdn/tdn/645.m3u
 #EXTINF:-1,360 TV
 http://www.teledunet.com:8080/tdn/tdn/646.ts
 #EXTINF:-1,TRT 1
-http://www.teledunet.com:8080/tdn/tdn/644.ts
+http://www.teledunet.com:8080/tdn/tdn/644.m3u8
 #EXTINF:-1,TRT 2
 http://www.teledunet.com:8080/tdn/tdn/9913275.ts
 #EXTINF:-1,TRT SPORT
