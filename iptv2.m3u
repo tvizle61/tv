@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1,ATV TURK
+http://www.teledunet.com:8080/tdn/tdn/645.ts
+#EXTINF:-1,360 TV
+http://www.teledunet.com:8080/tdn/tdn/646.ts
+#EXTINF:-1,TRT 1
+http://www.teledunet.com:8080/tdn/tdn/644.ts
+#EXTINF:-1,TRT 2
+http://www.teledunet.com:8080/tdn/tdn/9913275.ts
+#EXTINF:-1,TRT SPORT
+http://www.teledunet.com:8080/tdn/tdn/659.ts
+#EXTINF:-1,TRT AVAZ
+http://www.teledunet.com:8080/tdn/tdn/661.ts
+#EXTINF:-1,TRT BELGESEL
+http://www.teledunet.com:8080/tdn/tdn/660.ts
+#EXTINF:-1,TRT COCUK
+http://www.teledunet.com:8080/tdn/tdn/667.ts
+#EXTINF:-1,TRT DIYANET
+http://www.teledunet.com:8080/tdn/tdn/662.ts
+#EXTINF:-1,TRT HABER
+http://www.teledunet.com:8080/tdn/tdn/663.ts
+#EXTINF:-1,TRT KURDI
+http://www.teledunet.com:8080/tdn/tdn/664.ts
+#EXTINF:-1,TRT MUZIK
+http://www.teledunet.com:8080/tdn/tdn/666.ts
+#EXTINF:-1,TRT WORLD
+http://www.teledunet.com:8080/tdn/tdn/665.ts
+#EXTINF:-1,A SPOR
+http://www.teledunet.com:8080/tdn/tdn/9961544.ts
+#EXTINF:-1,TABII SPOR
+http://www.teledunet.com:8080/tdn/tdn/9961563.ts
+#EXTINF:-1,TABII SPOR 2
+http://www.teledunet.com:8080/tdn/tdn/9961565.ts
+#EXTINF:-1,TABII SPOR 3
+http://www.teledunet.com:8080/tdn/tdn/9961566.ts
+#EXTINF:-1,TABII SPOR 4
+http://www.teledunet.com:8080/tdn/tdn/9961567.ts
+#EXTINF:-1,TABII SPOR 5
+http://www.teledunet.com:8080/tdn/tdn/9961568.ts
+#EXTINF:-1,TABII SPOR 6
+http://www.teledunet.com:8080/tdn/tdn/9961569.ts
+#EXTINF:-1,COSMOSPORTS
+http://www.teledunet.com:8080/tdn/tdn/9961554.ts
+#EXTINF:-1,BELGESEL
+http://www.teledunet.com:8080/tdn/tdn/674.ts
+#EXTINF:-1,BEYAZ TV TURK
+http://www.teledunet.com:8080/tdn/tdn/658.ts
+#EXTINF:-1,BLOOMBERG HT
+http://www.teledunet.com:8080/tdn/tdn/676.ts
+#EXTINF:-1,DMAX
+http://www.teledunet.com:8080/tdn/tdn/673.ts
+#EXTINF:-1,DREAM TURK
+http://www.teledunet.com:8080/tdn/tdn/669.ts
+#EXTINF:-1,HABER GLOBAL
+http://www.teledunet.com:8080/tdn/tdn/671.ts
+#EXTINF:-1,HALK TV
+http://www.teledunet.com:8080/tdn/tdn/675.ts
