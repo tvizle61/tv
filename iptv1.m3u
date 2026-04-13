@@ -1,23 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: FOX HD" tvg-logo="https://logo.m3uassets.com/fox.png" group-title="TR| ULUSAL",TR: FOX HD
-http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42401
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: TV 8 HD" tvg-logo="https://logo.m3uassets.com/tv8.png" group-title="TR| ULUSAL",TR: TV 8 HD
-http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42389
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: TV 8 HD PLUS" tvg-logo="https://logo.m3uassets.com/plustv.png" group-title="TR| ULUSAL",TR: TV 8 HD PLUS
-http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42388
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: TV 8 5 HD" tvg-logo="https://logo.m3uassets.com/tv85.png" group-title="TR| ULUSAL",TR: TV 8 5 HD
-http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42387
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: TV 8 5 HD PLUS" tvg-logo="https://logo.m3uassets.com/5plus.png" group-title="TR| ULUSAL",TR: TV 8 5 HD PLUS
-http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42386
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: A2 HD" tvg-logo="https://logo.m3uassets.com/a2.png" group-title="TR| ULUSAL",TR: A2 HD
-http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42383
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: BEYAZ TV HD" tvg-logo="https://logo.m3uassets.com/beyaztv.png" group-title="TR| ULUSAL",TR: BEYAZ TV HD
-http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42381
-#EXTINF:-1 tvg-id="360tv.tr" tvg-name="TR: 360 TV HD" tvg-logo="https://logo.m3uassets.com/360tv.png" group-title="TR| ULUSAL",TR: 360 TV HD
-http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42407
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: KANAL 7 HD" tvg-logo="https://logo.m3uassets.com/kanal7.png" group-title="TR| ULUSAL",TR: KANAL 7 HD
-http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42372
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: KANAL 7 HD" tvg-logo="https://logo.m3uassets.com/kanal7.png" group-title="TR| ULUSAL",TR: KANAL 7 HD
-http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42373
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="TR: KANAL 7 EU" tvg-logo="https://logo.m3uassets.com/kanal7.png" group-title="TR| ULUSAL",TR: KANAL 7 EU
-http://arabitv5.com:8000/Munir.Miro/Miro.69651410/42371
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fmtv.tr" tvg-name="FM TV TR" tvg-logo="https://logo.m3uassets.com/fmtv.png" group-title="Turkey",FM TV TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785971
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxcrime.tr" tvg-name="FOX Crime HD TR" tvg-logo="https://logo.m3uassets.com/foxcrime.png" group-title="Turkey",FOX Crime HD TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785970
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="FOX TV HD TR" tvg-logo="https://logo.m3uassets.com/foxtv.png" group-title="Turkey",FOX TV HD TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785969
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fox.tr" tvg-name="FOX TV FHD TR" tvg-logo="https://logo.m3uassets.com/foxtv.png" group-title="Turkey",FOX TV FHD TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785968
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fxnetwork.tr" tvg-name="FX HFX HD TR" tvg-logo="https://logo.m3uassets.com/fx.png" group-title="Turkey",FX HFX HD TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785967
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Kabe TV TR" tvg-logo="https://logo.m3uassets.com/betv.png" group-title="Turkey",Kabe TV TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785966
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="Kanal 7 Avrupa TR" tvg-logo="https://logo.m3uassets.com/kanal7avrupa.png" group-title="Turkey",Kanal 7 Avrupa TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785965
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="Kanal 7 FHD TR" tvg-logo="https://logo.m3uassets.com/kanal7.png" group-title="Turkey",Kanal 7 FHD TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785964
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanal7.tr" tvg-name="Kanal 7 FHD TR" tvg-logo="https://logo.m3uassets.com/kanal7.png" group-title="Turkey",Kanal 7 FHD TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785963
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="Kanal D FHD TR" tvg-logo="https://logo.m3uassets.com/kanald.png" group-title="Turkey",Kanal D FHD TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785962
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kanald.tr" tvg-name="Kanal D HD TR" tvg-logo="https://logo.m3uassets.com/kanald.png" group-title="Turkey",Kanal D HD TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785961
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="KUDUS TV TR" tvg-logo="https://logo.m3uassets.com/kudustv.png" group-title="Turkey",KUDUS TV TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785960
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Lalegül TV TR" tvg-logo="https://logo.m3uassets.com/lalegultv.png" group-title="Turkey",Lalegül TV TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785959
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="linetv.tr" tvg-name="Line TV TR" tvg-logo="https://logo.m3uassets.com/linetv.png" group-title="Turkey",Line TV TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785958
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Medine TV TR" tvg-logo="https://logo.m3uassets.com/medinetv.png" group-title="Turkey",Medine TV TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785957
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Mekke TV TR" tvg-logo="" group-title="Turkey",Mekke TV TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785956
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV FHD TR" tvg-logo="https://logo.m3uassets.com/atv.png" group-title="Turkey",ATV FHD TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785982
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="atv.tr" tvg-name="ATV HD TR" tvg-logo="https://logo.m3uassets.com/atv.png" group-title="Turkey",ATV HD TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785981
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="Beyaz TV FHD TR" tvg-logo="https://logo.m3uassets.com/beyaztv.png" group-title="Turkey",Beyaz TV FHD TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785980
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beyaztv.tr" tvg-name="Beyaz TV HD TR" tvg-logo="https://logo.m3uassets.com/beyaztv.png" group-title="Turkey",Beyaz TV HD TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785979
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Cem TV TR" tvg-logo="https://logo.m3uassets.com/cemtv.png" group-title="Turkey",Cem TV TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785978
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Dost TV TR" tvg-logo="https://logo.m3uassets.com/dosttv.png" group-title="Turkey",Dost TV TR
+http://proxpanel.pro:80/frankmajette@yahoo.com/6065499936/785977
+
