@@ -20,7 +20,7 @@ http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/179
 #EXTINF:-1 tvg-id="" tvg-name="TR: Show TV" tvg-logo="http://iptvbeka.net/turkey/showtv.png" group-title="Turkey",TR: Show TV
 http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/177
 #EXTINF:-1 tvg-id="" tvg-name="TR: ATV" tvg-logo="http://iptvbeka.net/turkey/atv_turkiye.png" group-title="Turkey",TR: ATV
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/539
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/539.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D" tvg-logo="http://iptvbeka.net/turkey/KANAL D.png" group-title="Turkey",TR: KANAL D
 http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3623
 #EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV" tvg-logo="http://iptvbeka.net/turkey/FOX TV.png" group-title="Turkey",TR: FOX TV
@@ -38,7 +38,7 @@ http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/5650
 #EXTINF:-1 tvg-id="" tvg-name="TR: A Haber FHD" tvg-logo="http://iptvbeka.net/turkey/Ahaber_Logo.png" group-title="Turkey",TR: A Haber FHD
 http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3139
 #EXTINF:-1 tvg-id="" tvg-name="TR: Akit Tv ᶠᴴᴰ" tvg-logo="" group-title="Turkey",TR: Akit Tv ᶠᴴᴰ
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3140
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3140.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TR: A PARA FHD" tvg-logo="http://iptvbeka.net/turkey/apara.png" group-title="Turkey",TR: A PARA FHD
 http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3141
 #EXTINF:-1 tvg-id="" tvg-name="TR: A Sport FHD" tvg-logo="http://iptvbeka.net/turkey/A Sport FHD.png" group-title="Sport",TR: A Sport FHD
@@ -77,8 +77,6 @@ http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/1646
 http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/511
 #EXTINF:-1 tvg-id="" tvg-name="TR: TRT Avaz" tvg-logo="http://iptvbeka.net/turkey/trt-avaz-logo-1280.png" group-title="Turkey",TR: TRT Avaz
 http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/512
-#EXTINF:-1 tvg-id="" tvg-name="TR: YABAN TV" tvg-logo="http://iptvbeka.net/turkey/YABAN TV.png" group-title="Turkey",TR: YABAN TV
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3264
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5" tvg-logo="http://iptvbeka.net/turkey/TV8.5_Logosu.png" group-title="Turkey",TR: TV 8.5
 http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/2873
 #EXTINF:-1 tvg-id="" tvg-name="TR: TV 8" tvg-logo="http://iptvbeka.net/turkey/tv8.png" group-title="Turkey",TR: TV 8
