@@ -1,45 +1,51 @@
 #EXTM3U
-#EXTINF:-1,TR: BEIN SPORTS 1 [Live During Events Only]
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131733
-#EXTINF:-1,TR: BEIN SPORTS 2
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131734
-#EXTINF:-1,TR: BEIN SPORTS 3
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131735
-#EXTINF:-1,TR: BEIN SPORTS 4
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131736
-#EXTINF:-1,TR: BEIN SPORTS 5 (Match Time)
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131737
-#EXTINF:-1,TR: BEIN SPORTS HABER
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131738
-#EXTINF:-1,TR: BEIN SPORTS MAX 1
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131739
-#EXTINF:-1,TR: BEIN SPORTS MAX 2
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131740
-#EXTINF:-1,TR: BENGUTURK
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131741
-#EXTINF:-1,TR: BEYAZ TV
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131742
-#EXTINF:-1,TR: BLOOMBERG
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131743
-#EXTINF:-1,TR: BOOMERANG
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131744
-#EXTINF:-1,TR: BRT 1
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131745
-#EXTINF:-1,TR: BRT 2
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131746
-#EXTINF:-1,TR: CAILLOU TV
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131747
-#EXTINF:-1,TR: CAN TV
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131748
-#EXTINF:-1,TR: CARTOON NETWORK
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131749
-#EXTINF:-1,TR: CAY TV
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131750
-#EXTINF:-1,TR: CEM TV
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131751
-#EXTINF:-1,TR: CHASSE ET PECHE
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131752
-#EXTINF:-1,TR: CIFTCI TV
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131753
-#EXTINF:-1,TR: CNN TURK
-http://media2.xyz:8080/ttUAYEzZ8S/Pp2BNkewxE/131754
+#EXTINF:-1,ATV SD
+http://boxviptv.net:25461/sa112/300486/287
+#EXTINF:-1,KANAL D ʜᴅ
+http://boxviptv.net:25461/sa112/300486/84
+#EXTINF:-1,KANAL D 
+http://boxviptv.net:25461/sa112/300486/288
+#EXTINF:-1,Show TV ʜᴅ
+http://boxviptv.net:25461/sa112/300486/90
+#EXTINF:-1,Show TV
+http://boxviptv.net:25461/sa112/300486/314
+#EXTINF:-1,STAR ʜᴅ
+http://boxviptv.net:25461/sa112/300486/82
+#EXTINF:-1,STAR SD
+http://boxviptv.net:25461/sa112/300486/286
+#EXTINF:-1,Teve 2 HD
+http://boxviptv.net:25461/sa112/300486/99
+#EXTINF:-1,TEVE 2
+http://boxviptv.net:25461/sa112/300486/598
+#EXTINF:-1,TV 8 
+http://boxviptv.net:25461/sa112/300486/367
+#EXTINF:-1,TV 8 HD
+http://boxviptv.net:25461/sa112/300486/85
+#EXTINF:-1,SHOWMAX
+http://boxviptv.net:25461/sa112/300486/298
+#EXTINF:-1,TRT TURK
+http://boxviptv.net:25461/sa112/300486/637
+#EXTINF:-1,Kanal 7 HD
+http://boxviptv.net:25461/sa112/300486/88
+#EXTINF:-1,Kanal 7 
+http://boxviptv.net:25461/sa112/300486/362
+#EXTINF:-1,A2
+http://boxviptv.net:25461/sa112/300486/86
+#EXTINF:-1,TRT 1
+http://boxviptv.net:25461/sa112/300486/87
+#EXTINF:-1,TRT 1 (Backup)
+http://boxviptv.net:25461/sa112/300486/597
+#EXTINF:-1,360 HD
+http://boxviptv.net:25461/sa112/300486/92
+#EXTINF:-1,Beyaz TV
+http://boxviptv.net:25461/sa112/300486/91
+#EXTINF:-1,Bloomberg
+https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
+#EXTINF:-1,CNN TURK
+http://boxviptv.net:25461/sa112/300486/117
+#EXTINF:-1,NTV TR
+http://boxviptv.net:25461/sa112/300486/93
+#EXTINF:-1,Sozcu Tv
+http://boxviptv.net:25461/sa112/300486/102
+#EXTINF:-1,TV 100 HD
+http://boxviptv.net:25461/sa112/300486/100
