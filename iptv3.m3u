@@ -1,51 +1,83 @@
 #EXTM3U
-#EXTINF:-1,ATV SD
-http://boxviptv.net:25461/sa112/300486/287
-#EXTINF:-1,KANAL D ʜᴅ
-http://boxviptv.net:25461/sa112/300486/84
-#EXTINF:-1,KANAL D 
-http://boxviptv.net:25461/sa112/300486/288
-#EXTINF:-1,Show TV ʜᴅ
-http://boxviptv.net:25461/sa112/300486/90
-#EXTINF:-1,Show TV
-http://boxviptv.net:25461/sa112/300486/314
-#EXTINF:-1,STAR ʜᴅ
-http://boxviptv.net:25461/sa112/300486/82
-#EXTINF:-1,STAR SD
-http://boxviptv.net:25461/sa112/300486/286
-#EXTINF:-1,Teve 2 HD
-http://boxviptv.net:25461/sa112/300486/99
-#EXTINF:-1,TEVE 2
-http://boxviptv.net:25461/sa112/300486/598
-#EXTINF:-1,TV 8 
-http://boxviptv.net:25461/sa112/300486/367
-#EXTINF:-1,TV 8 HD
-http://boxviptv.net:25461/sa112/300486/85
-#EXTINF:-1,SHOWMAX
-http://boxviptv.net:25461/sa112/300486/298
-#EXTINF:-1,TRT TURK
-http://boxviptv.net:25461/sa112/300486/637
-#EXTINF:-1,Kanal 7 HD
-http://boxviptv.net:25461/sa112/300486/88
-#EXTINF:-1,Kanal 7 
-http://boxviptv.net:25461/sa112/300486/362
-#EXTINF:-1,A2
-http://boxviptv.net:25461/sa112/300486/86
-#EXTINF:-1,TRT 1
-http://boxviptv.net:25461/sa112/300486/87
-#EXTINF:-1,TRT 1 (Backup)
-http://boxviptv.net:25461/sa112/300486/597
-#EXTINF:-1,360 HD
-http://boxviptv.net:25461/sa112/300486/92
-#EXTINF:-1,Beyaz TV
-http://boxviptv.net:25461/sa112/300486/91
-#EXTINF:-1,Bloomberg
-https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
-#EXTINF:-1,CNN TURK
-http://boxviptv.net:25461/sa112/300486/117
-#EXTINF:-1,NTV TR
-http://boxviptv.net:25461/sa112/300486/93
-#EXTINF:-1,Sozcu Tv
-http://boxviptv.net:25461/sa112/300486/102
-#EXTINF:-1,TV 100 HD
-http://boxviptv.net:25461/sa112/300486/100
+#EXTINF:-1,TR: NBA TV HD
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/7987
+#EXTINF:-1,TR: FIGHT SCREEN HD
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/9959
+#EXTINF:-1,TR: REDBULL TV HD
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/48814
+#EXTINF:-1,TR: Eurosport 1  HD
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/1513
+#EXTINF:-1,TR: Eurosport 2  HD
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/1512
+#EXTINF:-1,TR: SPORTS TV HD
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/1365
+#EXTINF:-1,TR: TJK TV HD
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/4889
+#EXTINF:-1,##### TURK ULUSAL PAKETI (4K) #####
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/36211
+#EXTINF:-1,ULTHD: TRT 1 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10797
+#EXTINF:-1,ULTHD: TRT 2 HD
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/21737
+#EXTINF:-1,ULTHD: ATV 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10795
+#EXTINF:-1,ULTHD: SHOW TV 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10793
+#EXTINF:-1,ULTHD: SHOWMAX TV 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/157186
+#EXTINF:-1,ULTHD: STAR TV 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10792
+#EXTINF:-1,ULTHD: KANAL D 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10790
+#EXTINF:-1,ULTHD: NOW TV 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10794
+#EXTINF:-1,ULTHD: TV 8 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10789
+#EXTINF:-1,ULTHD: TV 8.5 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10788
+#EXTINF:-1,ULTHD: KANAL 7 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10791
+#EXTINF:-1,ULTHD: BEYAZ TV 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10787
+#EXTINF:-1,ULTHD: TEVE 2 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10776
+#EXTINF:-1,ULTHD: TLC HD
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/22187
+#EXTINF:-1,ULTHD: A2  4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/4833
+#EXTINF:-1,ULTHD: A SPOR 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10783
+#EXTINF:-1,ULTHD: TRT SPOR 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10773
+#EXTINF:-1,ULTHD: HABERTURK 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10778
+#EXTINF:-1,ULTHD: NTV 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10777
+#EXTINF:-1,ULTHD: A HABER 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10786
+#EXTINF:-1,ULTHD: CNN TURK 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10785
+#EXTINF:-1,ULTHD: TRT 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10207
+#EXTINF:-1,ULTHD: ULKE TV 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10772
+#EXTINF:-1,ULTHD: TRT BELGESEL 4K
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/10775
+#EXTINF:-1,#####  TURK UltraHD PAKETI #####
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/36212
+#EXTINF:-1,TR: beIN SPORTS 1 FHD
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/22258
+#EXTINF:-1,TR: beIN SPORTS 2 FHD
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/22528
+#EXTINF:-1,TR: beIN SPORTS 3 FHD
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/22529
+#EXTINF:-1,TR: beIN SPORTS 4 FHD
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/22691
+#EXTINF:-1,TR: beIN SPORTS 5 FHD
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/68169
+#EXTINF:-1,TR: beIN SPORTS Max 1 FHD
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/22692
+#EXTINF:-1,TR: beIN SPORTS Max 2 FHD
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/22693
+#EXTINF:-1,TR: SPOR SMART FHD
+http://hh.hdmediashop.com:2086/TankutG/KvHz6Rv6Rh/7986
