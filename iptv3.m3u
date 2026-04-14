@@ -1,83 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1" tvg-logo="http://iptvbeka.net/turkey/TRT 1.png" group-title="Turkey",TR: TRT 1
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3625
-#EXTINF:-1 tvg-id="" tvg-name="TR: Trt 2" tvg-logo="http://iptvbeka.net/turkey/Trt 2.png" group-title="Turkey",TR: Trt 2
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/4905
-#EXTINF:-1 tvg-id="" tvg-name="TR: Trt Haber" tvg-logo="http://iptvbeka.net/turkey/Trt Haber.png" group-title="Turkey",TR: Trt Haber
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/4906
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL HD" tvg-logo="http://iptvbeka.net/turkey/TRT BELGESEL HD.png" group-title="Turkey",TR: TRT BELGESEL HD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/4909
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT WORLD HD" tvg-logo="http://iptvbeka.net/turkey/TRT WORLD HD.png" group-title="Turkey",TR: TRT WORLD HD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/4908
-#EXTINF:-1 tvg-id="" tvg-name="TR: HABER GLOBAL HD" tvg-logo="http://iptvbeka.net/turkey/HABER GLOBAL HD.png" group-title="Turkey",TR: HABER GLOBAL HD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/5653
-#EXTINF:-1 tvg-id="" tvg-name="TR:  Star TV" tvg-logo="http://iptvbeka.net/turkey/Star_TV_logosu.png" group-title="Turkey",TR:  Star TV
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/178
-#EXTINF:-1 tvg-id="" tvg-name="TR: Star HD" tvg-logo="http://iptvbeka.net/turkey/Star_TV_logosu.png" group-title="Turkey",TR: Star HD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/335
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kral TV" tvg-logo="http://iptvbeka.net/turkey/kraltv.png" group-title="Turkey",TR: Kral TV
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/179
-#EXTINF:-1 tvg-id="" tvg-name="TR: Show TV" tvg-logo="http://iptvbeka.net/turkey/showtv.png" group-title="Turkey",TR: Show TV
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/177
-#EXTINF:-1 tvg-id="" tvg-name="TR: ATV" tvg-logo="http://iptvbeka.net/turkey/atv_turkiye.png" group-title="Turkey",TR: ATV
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D" tvg-logo="http://iptvbeka.net/turkey/KANAL D.png" group-title="Turkey",TR: KANAL D
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3623
-#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV" tvg-logo="http://iptvbeka.net/turkey/FOX TV.png" group-title="Turkey",TR: FOX TV
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3622
-#EXTINF:-1 tvg-id="" tvg-name="TR: A2" tvg-logo="http://iptvbeka.net/turkey/A2.png" group-title="Turkey",TR: A2
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3619
-#EXTINF:-1 tvg-id="" tvg-name="TR: Canal D" tvg-logo="http://iptvbeka.net/turkey/Kanal_D_(1994-.n.v.).png" group-title="Turkey",TR: Canal D
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/103
-#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7" tvg-logo="http://iptvbeka.net/turkey/kanal-7.png" group-title="Turkey",TR: Kanal 7
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/912
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Turk" tvg-logo="http://iptvbeka.net/turkey/TRT_Türk_logosu.png" group-title="Turkey",TR: TRT Turk
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/104
-#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 HD" tvg-logo="http://iptvbeka.net/turkey/NR1 HD.png" group-title="Turkey",TR: NR1 HD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/5650
-#EXTINF:-1 tvg-id="" tvg-name="TR: A Haber FHD" tvg-logo="http://iptvbeka.net/turkey/Ahaber_Logo.png" group-title="Turkey",TR: A Haber FHD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3139
-#EXTINF:-1 tvg-id="" tvg-name="TR: Akit Tv ᶠᴴᴰ" tvg-logo="" group-title="Turkey",TR: Akit Tv ᶠᴴᴰ
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR: A PARA FHD" tvg-logo="http://iptvbeka.net/turkey/apara.png" group-title="Turkey",TR: A PARA FHD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3141
-#EXTINF:-1 tvg-id="" tvg-name="TR: A Sport FHD" tvg-logo="http://iptvbeka.net/turkey/A Sport FHD.png" group-title="Sport",TR: A Sport FHD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3142
-#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 24 HD" tvg-logo="http://iptvbeka.net/turkey/IZTV.png" group-title="Turkey",TR: KANAL 24 HD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/5655
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT COCUK" tvg-logo="http://iptvbeka.net/turkey/TRT_Çocuk_kurumsal_logo.png" group-title="Turkey",TR: TRT COCUK
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/469
-#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HD" tvg-logo="http://iptvbeka.net/turkey/NTV_logo.png" group-title="Turkey",TR: NTV HD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/1641
-#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD" tvg-logo="http://iptvbeka.net/turkey/NBA TV HD.png" group-title="Turkey",TR: NBA TV HD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3377
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR 2" tvg-logo="http://iptvbeka.net/turkey/TRT SPOR 2.png" group-title="Sport",TR: TRT SPOR 2
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3376
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD" tvg-logo="http://iptvbeka.net/turkey/TRT_Spor_HD_kurumsal_logo.png" group-title="Sport",TR: TRT SPOR HD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/1642
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports MAX 1" tvg-logo="http://iptvbeka.net/turkey/Logo_bein_sports_max_1.png" group-title="Turkey",TR: beIN Sports MAX 1
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/106
-#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports MAX 2" tvg-logo="http://iptvbeka.net/turkey/beinsport2.png" group-title="Turkey",TR: beIN Sports MAX 2
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/105
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://iptvbeka.net/turkey/beinsport1.png" group-title="Sport",TR: BEIN SPORTS 1 HD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/2998
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://iptvbeka.net/turkey/beinsport2.png" group-title="Sport",TR: BEIN SPORTS 2 HD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/2999
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="http://iptvbeka.net/turkey/bein-3.png" group-title="Sport",TR: BEIN SPORTS 3 HD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3000
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="http://iptvbeka.net/turkey/beinsports4.png" group-title="Sport",TR: BEIN SPORTS 4 HD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3001
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR-1 HD" tvg-logo="http://iptvbeka.net/turkey/tivibu-png-4.png" group-title="Sport",TR: TIVIBU SPOR-1 HD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/1644
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR-2 HD" tvg-logo="http://iptvbeka.net/turkey/tivibu-png-4.png" group-title="Sport",TR: TIVIBU SPOR-2 HD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/1645
-#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR-3 HD" tvg-logo="http://iptvbeka.net/turkey/tivibu-png-4.png" group-title="Sport",TR: TIVIBU SPOR-3 HD
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/1646
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Belgesel" tvg-logo="http://iptvbeka.net/turkey/TRT_Belgesel_logosu.png" group-title="Turkey",TR: TRT Belgesel
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/511
-#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Avaz" tvg-logo="http://iptvbeka.net/turkey/trt-avaz-logo-1280.png" group-title="Turkey",TR: TRT Avaz
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/512
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5" tvg-logo="http://iptvbeka.net/turkey/TV8.5_Logosu.png" group-title="Turkey",TR: TV 8.5
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/2873
-#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8" tvg-logo="http://iptvbeka.net/turkey/tv8.png" group-title="Turkey",TR: TV 8
-http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/2872
+#EXTINF:-1,|DE| Baby TV
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/450
+#EXTINF:-1,|DE| Disney XD 4K+
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/460
+#EXTINF:-1,|DE| LionBox Paw Patrol 1
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/30781
+#EXTINF:-1,|DE| LionBox Paw Patrol 2
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/34975
+#EXTINF:-1,|DE| LionBox Animation 1
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/46102
+#EXTINF:-1,|DE| LionBox Animation 2
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/46103
+#EXTINF:-1,|DE| LionBox Mascha und der Bär
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/36624
+#EXTINF:-1,|DE| LionBox Tom And Jerry 1
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/55941
+#EXTINF:-1,|DE| LionBox Tom And Jerry 2
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/55942
+#EXTINF:-1,|DE| LionBox Bluey
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/112712
+#EXTINF:-1,|DE| Sky Cinema Special 4K+
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/463
+#EXTINF:-1,|DE| Universal Channel 4K+
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/467
+#EXTINF:-1,|DE| Sky Cinema Premieren 4K+
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/468
+#EXTINF:-1,|DE| Sky Atlantic 4K+
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/471
+#EXTINF:-1,|DE| Sky Cinema Family 4K+
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/472
+#EXTINF:-1,|DE| Sky Cinema Action 4K+
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/477
+#EXTINF:-1,|DE|  Sat 1 Emotions HD+
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/479
+#EXTINF:-1,|DE| Sky Cinema Classics
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/480
+#EXTINF:-1,|DE| Sky Krimi 4K+
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/485
+#EXTINF:-1,|DE| Warner Film 4K+
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/486
+#EXTINF:-1,|DE| Warner Serie 4K+
+http://l1iptv.xyz:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/488
