@@ -1,51 +1,85 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 1 HD [VIP]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 HD [VIP]
-http://favoritest25.shop:8080/gkn7350/gkn00/98925
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 FHD
-http://favoritest25.shop:8080/gkn7350/gkn00/126272
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 VIP H265" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 VIP H265
-http://favoritest25.shop:8080/gkn7350/gkn00/190072
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 4K [Feed]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 4K [Feed]
-http://favoritest25.shop:8080/gkn7350/gkn00/35650
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 8K [Feed]" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 8K [Feed]
-http://favoritest25.shop:8080/gkn7350/gkn00/191152
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 HD (Kutu Yayin)" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 HD (Kutu Yayin)
-http://favoritest25.shop:8080/gkn7350/gkn00/456568
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 1 HD (BoX)" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 1 HD (BoX)
-http://favoritest25.shop:8080/gkn7350/gkn00/456567
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 2 SD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 2 SD
-http://favoritest25.shop:8080/gkn7350/gkn00/196216
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 2 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 2 HD
-http://favoritest25.shop:8080/gkn7350/gkn00/35730
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 2 UHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_2.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 2 UHD
-http://favoritest25.shop:8080/gkn7350/gkn00/195811
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 3 SD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 3 SD
-http://favoritest25.shop:8080/gkn7350/gkn00/196217
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 3 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 3 HD
-http://favoritest25.shop:8080/gkn7350/gkn00/6097
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 3 UHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_3.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 3 UHD
-http://favoritest25.shop:8080/gkn7350/gkn00/195812
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 4 SD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 4 SD
-http://favoritest25.shop:8080/gkn7350/gkn00/196218
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports 4 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 4 HD
-http://favoritest25.shop:8080/gkn7350/gkn00/6098
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 4 UHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_4.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 4 UHD
-http://favoritest25.shop:8080/gkn7350/gkn00/195813
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Sports 5 HD" tvg-logo="https://apkx.xyz/tv-tum-dunya-logolar/logolar/beinsport-5.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports 5 HD
-http://favoritest25.shop:8080/gkn7350/gkn00/125936
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports Max 1" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_max_1.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports Max 1
-http://favoritest25.shop:8080/gkn7350/gkn00/6099
-#EXTINF:-1 tvg-id="24KitchenTurkey.tr" tvg-name="|TR| beIN Sports Max 2" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/bein_sports_max_2.png" group-title="TR/ BEIN SPOR",|TR| beIN Sports Max 2
-http://favoritest25.shop:8080/gkn7350/gkn00/6100
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Connect 1 |Mac Saati|" tvg-logo="https://resimyukle.io/uploadyeri/D3GN7pCi_download.png" group-title="TR/ BEIN SPOR",|TR| beIN Connect 1 |Mac Saati|
-http://favoritest25.shop:8080/gkn7350/gkn00/137710
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Connect 2 |Mac Saati|" tvg-logo="https://resimyukle.io/uploadyeri/D3GN7pCi_download.png" group-title="TR/ BEIN SPOR",|TR| beIN Connect 2 |Mac Saati|
-http://favoritest25.shop:8080/gkn7350/gkn00/137711
-#EXTINF:-1 tvg-id="" tvg-name="|TR| beIN Connect 3 |Mac Saati|" tvg-logo="https://resimyukle.io/uploadyeri/D3GN7pCi_download.png" group-title="TR/ BEIN SPOR",|TR| beIN Connect 3 |Mac Saati|
-http://favoritest25.shop:8080/gkn7350/gkn00/137712
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Spor Smart 1 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/spor_smart.png" group-title="TR/ SMART SPOR",|TR| Spor Smart 1 HD
-http://favoritest25.shop:8080/gkn7350/gkn00/121246
-#EXTINF:-1 tvg-id="" tvg-name="|TR| Spor Smart 2 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/spor_smart.png" group-title="TR/ SMART SPOR",|TR| Spor Smart 2 HD
-http://favoritest25.shop:8080/gkn7350/gkn00/113272
-#EXTINF:-1 tvg-id="" tvg-name="|TR| D-Smart EuroSport 1" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/eurosport1.png" group-title="TR/ SMART SPOR",|TR| D-Smart EuroSport 1
-http://favoritest25.shop:8080/gkn7350/gkn00/6106
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 1" tvg-logo="http://iptvbeka.net/turkey/TRT 1.png" group-title="Turkey",TR: TRT 1
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3625
+#EXTINF:-1 tvg-id="" tvg-name="TR: Trt 2" tvg-logo="http://iptvbeka.net/turkey/Trt 2.png" group-title="Turkey",TR: Trt 2
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/4905
+#EXTINF:-1 tvg-id="" tvg-name="TR: Trt Haber" tvg-logo="http://iptvbeka.net/turkey/Trt Haber.png" group-title="Turkey",TR: Trt Haber
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/4906
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT BELGESEL HD" tvg-logo="http://iptvbeka.net/turkey/TRT BELGESEL HD.png" group-title="Turkey",TR: TRT BELGESEL HD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/4909
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT WORLD HD" tvg-logo="http://iptvbeka.net/turkey/TRT WORLD HD.png" group-title="Turkey",TR: TRT WORLD HD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/4908
+#EXTINF:-1 tvg-id="" tvg-name="TR: HABER GLOBAL HD" tvg-logo="http://iptvbeka.net/turkey/HABER GLOBAL HD.png" group-title="Turkey",TR: HABER GLOBAL HD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/5653
+#EXTINF:-1 tvg-id="" tvg-name="TR:  Star TV" tvg-logo="http://iptvbeka.net/turkey/Star_TV_logosu.png" group-title="Turkey",TR:  Star TV
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/178
+#EXTINF:-1 tvg-id="" tvg-name="TR: Star HD" tvg-logo="http://iptvbeka.net/turkey/Star_TV_logosu.png" group-title="Turkey",TR: Star HD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/335
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kral TV" tvg-logo="http://iptvbeka.net/turkey/kraltv.png" group-title="Turkey",TR: Kral TV
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/179
+#EXTINF:-1 tvg-id="" tvg-name="TR: Show TV" tvg-logo="http://iptvbeka.net/turkey/showtv.png" group-title="Turkey",TR: Show TV
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/177
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV" tvg-logo="http://iptvbeka.net/turkey/atv_turkiye.png" group-title="Turkey",TR: ATV
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/539
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL D" tvg-logo="http://iptvbeka.net/turkey/KANAL D.png" group-title="Turkey",TR: KANAL D
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3623
+#EXTINF:-1 tvg-id="" tvg-name="TR: FOX TV" tvg-logo="http://iptvbeka.net/turkey/FOX TV.png" group-title="Turkey",TR: FOX TV
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3622
+#EXTINF:-1 tvg-id="" tvg-name="TR: A2" tvg-logo="http://iptvbeka.net/turkey/A2.png" group-title="Turkey",TR: A2
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3619
+#EXTINF:-1 tvg-id="" tvg-name="TR: Canal D" tvg-logo="http://iptvbeka.net/turkey/Kanal_D_(1994-.n.v.).png" group-title="Turkey",TR: Canal D
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/103
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 7" tvg-logo="http://iptvbeka.net/turkey/kanal-7.png" group-title="Turkey",TR: Kanal 7
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/912
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Turk" tvg-logo="http://iptvbeka.net/turkey/TRT_Türk_logosu.png" group-title="Turkey",TR: TRT Turk
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/104
+#EXTINF:-1 tvg-id="" tvg-name="TR: NR1 HD" tvg-logo="http://iptvbeka.net/turkey/NR1 HD.png" group-title="Turkey",TR: NR1 HD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/5650
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Haber FHD" tvg-logo="http://iptvbeka.net/turkey/Ahaber_Logo.png" group-title="Turkey",TR: A Haber FHD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3139
+#EXTINF:-1 tvg-id="" tvg-name="TR: Akit Tv ᶠᴴᴰ" tvg-logo="" group-title="Turkey",TR: Akit Tv ᶠᴴᴰ
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3140
+#EXTINF:-1 tvg-id="" tvg-name="TR: A PARA FHD" tvg-logo="http://iptvbeka.net/turkey/apara.png" group-title="Turkey",TR: A PARA FHD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3141
+#EXTINF:-1 tvg-id="" tvg-name="TR: A Sport FHD" tvg-logo="http://iptvbeka.net/turkey/A Sport FHD.png" group-title="Sport",TR: A Sport FHD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3142
+#EXTINF:-1 tvg-id="" tvg-name="TR: KANAL 24 HD" tvg-logo="http://iptvbeka.net/turkey/IZTV.png" group-title="Turkey",TR: KANAL 24 HD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/5655
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT COCUK" tvg-logo="http://iptvbeka.net/turkey/TRT_Çocuk_kurumsal_logo.png" group-title="Turkey",TR: TRT COCUK
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/469
+#EXTINF:-1 tvg-id="" tvg-name="TR: NTV HD" tvg-logo="http://iptvbeka.net/turkey/NTV_logo.png" group-title="Turkey",TR: NTV HD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/1641
+#EXTINF:-1 tvg-id="" tvg-name="TR: NBA TV HD" tvg-logo="http://iptvbeka.net/turkey/NBA TV HD.png" group-title="Turkey",TR: NBA TV HD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3377
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR 2" tvg-logo="http://iptvbeka.net/turkey/TRT SPOR 2.png" group-title="Sport",TR: TRT SPOR 2
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3376
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT SPOR HD" tvg-logo="http://iptvbeka.net/turkey/TRT_Spor_HD_kurumsal_logo.png" group-title="Sport",TR: TRT SPOR HD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/1642
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports MAX 1" tvg-logo="http://iptvbeka.net/turkey/Logo_bein_sports_max_1.png" group-title="Turkey",TR: beIN Sports MAX 1
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/106
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports MAX 2" tvg-logo="http://iptvbeka.net/turkey/beinsport2.png" group-title="Turkey",TR: beIN Sports MAX 2
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/105
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://iptvbeka.net/turkey/beinsport1.png" group-title="Sport",TR: BEIN SPORTS 1 HD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/2998
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://iptvbeka.net/turkey/beinsport2.png" group-title="Sport",TR: BEIN SPORTS 2 HD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/2999
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="http://iptvbeka.net/turkey/bein-3.png" group-title="Sport",TR: BEIN SPORTS 3 HD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3000
+#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="http://iptvbeka.net/turkey/beinsports4.png" group-title="Sport",TR: BEIN SPORTS 4 HD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3001
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR-1 HD" tvg-logo="http://iptvbeka.net/turkey/tivibu-png-4.png" group-title="Sport",TR: TIVIBU SPOR-1 HD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/1644
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR-2 HD" tvg-logo="http://iptvbeka.net/turkey/tivibu-png-4.png" group-title="Sport",TR: TIVIBU SPOR-2 HD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/1645
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR-3 HD" tvg-logo="http://iptvbeka.net/turkey/tivibu-png-4.png" group-title="Sport",TR: TIVIBU SPOR-3 HD
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/1646
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Belgesel" tvg-logo="http://iptvbeka.net/turkey/TRT_Belgesel_logosu.png" group-title="Turkey",TR: TRT Belgesel
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/511
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT Avaz" tvg-logo="http://iptvbeka.net/turkey/trt-avaz-logo-1280.png" group-title="Turkey",TR: TRT Avaz
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/512
+#EXTINF:-1 tvg-id="" tvg-name="TR: YABAN TV" tvg-logo="http://iptvbeka.net/turkey/YABAN TV.png" group-title="Turkey",TR: YABAN TV
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/3264
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8.5" tvg-logo="http://iptvbeka.net/turkey/TV8.5_Logosu.png" group-title="Turkey",TR: TV 8.5
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/2873
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8" tvg-logo="http://iptvbeka.net/turkey/tv8.png" group-title="Turkey",TR: TV 8
+http://cmskos.bekaks.net:777/MendimiKotabilisti/VcrJPTnf/2872
