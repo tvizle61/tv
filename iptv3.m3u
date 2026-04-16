@@ -1,19 +1,67 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="(TR)⚡️Trt 1 ᵘˡᵗʳᵃ" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Trt 1 ᵘˡᵗʳᵃ
-http://tv.tvdark.eu/c/play/live.php?mac=00%3A1A%3A79%3A57%3A8F%3A10&stream=182943&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="(TR)⚡️Atv ᵘˡᵗʳᵃ" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Atv ᵘˡᵗʳᵃ
-http://tv.tvdark.eu/c/play/live.php?mac=00%3A1A%3A79%3A57%3A8F%3A10&stream=182944&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="(TR)⚡️Show Tv ᵘˡᵗʳᵃ" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Show Tv ᵘˡᵗʳᵃ
-http://tv.tvdark.eu/c/play/live.php?mac=00%3A1A%3A79%3A57%3A8F%3A10&stream=182945&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="(TR)⚡️Star Tv ᵘˡᵗʳᵃ" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Star Tv ᵘˡᵗʳᵃ
-http://tv.tvdark.eu/c/play/live.php?mac=00%3A1A%3A79%3A57%3A8F%3A10&stream=182947&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="(TR)⚡️Kanal D ᵘˡᵗʳᵃ" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Kanal D ᵘˡᵗʳᵃ
-http://tv.tvdark.eu/c/play/live.php?mac=00%3A1A%3A79%3A57%3A8F%3A10&stream=182946&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="(TR)⚡️Now ᵘˡᵗʳᵃ" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Now ᵘˡᵗʳᵃ
-http://tv.tvdark.eu/c/play/live.php?mac=00%3A1A%3A79%3A57%3A8F%3A10&stream=182948&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="(TR)⚡️Tv 8 ᵘˡᵗʳᵃ" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Tv 8 ᵘˡᵗʳᵃ
-http://tv.tvdark.eu/c/play/live.php?mac=00%3A1A%3A79%3A57%3A8F%3A10&stream=182949&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="(TR)⚡️Tv 8,5 ᵘˡᵗʳᵃ" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Tv 8,5 ᵘˡᵗʳᵃ
-http://tv.tvdark.eu/c/play/live.php?mac=00%3A1A%3A79%3A57%3A8F%3A10&stream=182950&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="(TR)⚡️Beyaz Tv ᵘˡᵗʳᵃ" group-title="TR - ULUSAL ᵘˡᵗʳᵃ",(TR)⚡️Beyaz Tv ᵘˡᵗʳᵃ
-http://tv.tvdark.eu/c/play/live.php?mac=00%3A1A%3A79%3A57%3A8F%3A10&stream=182955&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TRT 1 4K+" group-title="TR - Turkiye",(TR) TRT 1 4K+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=14759&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) ATV 4K+" group-title="TR - Turkiye",(TR) ATV 4K+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=14748&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal D 4K+" group-title="TR - Turkiye",(TR) Kanal D 4K+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=14749&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Show TV 4K+" group-title="TR - Turkiye",(TR) Show TV 4K+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=14756&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Star TV 4K+" group-title="TR - Turkiye",(TR) Star TV 4K+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=14753&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TV 8 4K+" group-title="TR - Turkiye",(TR) TV 8 4K+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=14755&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TV 8.5 4K+" group-title="TR - Turkiye",(TR) TV 8.5 4K+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=20691&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Now TV 4K+" group-title="TR - Turkiye",(TR) Now TV 4K+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=97321&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal 7 4K+" group-title="TR - Turkiye",(TR) Kanal 7 4K+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=14757&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Beyaz TV 4K+" group-title="TR - Turkiye",(TR) Beyaz TV 4K+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=105817&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Teve 2 4K+" group-title="TR - Turkiye",(TR) Teve 2 4K+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=14760&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TRT 2 4K+" group-title="TR - Turkiye",(TR) TRT 2 4K+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=46641&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) A2 4K+" group-title="TR - Turkiye",(TR) A2 4K+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=15661&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TYT TURK 4K+" group-title="TR - Turkiye",(TR) TYT TURK 4K+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=220422&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TRT 1 HD+" group-title="TR - Turkiye",(TR) TRT 1 HD+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=60&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) ATV HD+" group-title="TR - Turkiye",(TR) ATV HD+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=42&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal D HD+" group-title="TR - Turkiye",(TR) Kanal D HD+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=45&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Show TV HD+" group-title="TR - Turkiye",(TR) Show TV HD+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=533&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Star TV HD+" group-title="TR - Turkiye",(TR) Star TV HD+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=46&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TV 8 HD+" group-title="TR - Turkiye",(TR) TV 8 HD+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=532&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TV 8.5 HD+" group-title="TR - Turkiye",(TR) TV 8.5 HD+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=20694&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Now TV HD+" group-title="TR - Turkiye",(TR) Now TV HD+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=97322&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Kanal 7 HD+" group-title="TR - Turkiye",(TR) Kanal 7 HD+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=49&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Beyaz TV HD+" group-title="TR - Turkiye",(TR) Beyaz TV HD+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=105818&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Teve2 HD+" group-title="TR - Turkiye",(TR) Teve2 HD+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=56&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) A2 HD+" group-title="TR - Turkiye",(TR) A2 HD+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=16327&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TV 8 Int." group-title="TR - Turkiye",(TR) TV 8 Int.
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=14844&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Showmax" group-title="TR - Turkiye",(TR) Showmax
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=7871&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) TRT Turk 4K+" group-title="TR - Turkiye",(TR) TRT Turk 4K+
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=861&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) ATV Avrupa" group-title="TR - Turkiye",(TR) ATV Avrupa
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=3924&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Euro D" group-title="TR - Turkiye",(TR) Euro D
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=582&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Show Turk" group-title="TR - Turkiye",(TR) Show Turk
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=7762&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="(TR) Eurostar" group-title="TR - Turkiye",(TR) Eurostar
+http://xp1.tv/c/play/live.php?mac=00%3A1A%3A79%3A91%3A04%3ABB&stream=14084&extension=ts
