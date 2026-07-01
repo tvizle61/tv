@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml"
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="İNFO",BİLGİLENDİRME
-https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/info.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",beIN Sports 1-Gav
 https://gavatlar.b-cdn.net/bein.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Spor-Diğer",S Sport-Lİne
@@ -581,7 +579,7 @@ https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fa
 https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmusicrojda.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="Müzik",Fanatik Music Neşet Ertaş
 https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikmusicnesetertas.m3u8
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="YEREL",TRT 1
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT1.tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="Ulusal",TRT 1
 http://116.202.238.88/TRT1_TR/index.m3u8
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT 1.tr" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="YEREL",TRT 1
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT 1.tr" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
