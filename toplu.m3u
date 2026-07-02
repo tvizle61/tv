@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml"
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="1.Ulusal",1. TRT 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bt6frts/trtHaber.png" group-title="1.Ulusal",1. TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT 1.tr" tvg-logo="https://i.ibb.co/Bt6frts/trtHaber.png" group-title="1.Ulusal",1. TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
@@ -35,29 +35,29 @@ https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TRT_Haber_logosu_%282013-2020%29.png" group-title="2.Haber",7. Trt Haber
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LzcNGmm8/unnamed.png" group-title="2.Haber",7. Trt Haber
 https://tv-trtHaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Haberturk_logo.png" group-title="2.Haber",4. Haber Türk
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/Haberturktv/Haberturktv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="2.Haber",1. A Haber
+#EXTINF:-1 tvg-logo="https://st01.ahaber.com.tr/images/logo.png" group-title="2.Haber",1. A Haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aHaber/aHaber_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/qg6q0zx.png" group-title="2.Haber",5. Haber Global
+#EXTINF:-1 tvg-logo="https://i.haberglobal.com/storage/files/images/2022/01/11/mikrofon-logo-1-1-QENs.png" group-title="2.Haber",5. Haber Global
 https://tv.ensonHaber.com/Haberglobal/Haberglobal_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="2.Haber",11. Ntv
 https://livetv.work/play/tr/ntv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="2.Haber",11. Ntv
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=7c4bb802-0c41-409e-8cd2-799984995694
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="2.Haber",3. Tv 100
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ghokun/tv/main/bin/logo/TV100.tr.png" group-title="2.Haber",3. Tv 100
 https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?app=web
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="2.Haber",10.  24 TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="2.Haber",10.  24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="2.Haber",9. Tvnet
+#EXTINF:-1 tvg-logo="https://www.tvnet.com.tr/img/logo-tvnet-light.svg" group-title="2.Haber",9. Tvnet
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="2.Haber",12. Ülke Tv
+#EXTINF:-1 tvg-logo="https://ulketvcom.teimg.com/ulketv-com/uploads/2025/07/ulketv-logo-turk-bayragi.png" group-title="2.Haber",12. Ülke Tv
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="2.Haber",13. Sözcü
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/e/ed/SZC_TV_logo.png/250px-SZC_TV_logo.png" group-title="2.Haber",13. Sözcü
 https://helga.iptv2022.com/sh/szc_tv/tracks-v4a1/mono.ts.m3u8?filter.tracks=a1v1v2v3v4
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="2.Haber",14. Halk Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png" group-title="2.Haber",14. Halk Tv
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="2.Haber",18. Lider 2.Haber
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
