@@ -201,16 +201,6 @@ https://zeus324232.cfd/tivibu2/index.txt
 https://zeus324232.cfd/tivibu3/index.txt
 #EXTINF:-1 tvg-id="tivibu_5.Spor" tvg-name="Tivibu 5.Spor 4" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_5.Spor_logosu.jpg" group-title="5.Spor",Tivibu 5.Spor 4
 https://zeus324232.cfd/tivibu4/index.txt
-#EXTINF:-1 tvg-id="bein-5.Sports-1-turkey" tvg-name="beIN 5.Sports 1 Turkey" group-title="5.Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",beIN 5.Sports 1 Turkey
-https://dady-mq4r.onrender.com/?ID=62
-#EXTINF:-1 tvg-id="bein-5.Sports-2-turkey" tvg-name="beIN 5.Sports 2 Turkey" group-title="5.Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",beIN 5.Sports 2 Turkey
-https://dady-mq4r.onrender.com/?ID=63
-#EXTINF:-1 tvg-id="bein-5.Sports-3-turkey" tvg-name="beIN 5.Sports 3 Turkey" group-title="5.Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",beIN 5.Sports 3 Turkey
-https://dady-mq4r.onrender.com/?ID=64
-#EXTINF:-1 tvg-id="bein-5.Sports-4-turkey" tvg-name="beIN 5.Sports 4 Turkey" group-title="5.Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",beIN 5.Sports 4 Turkey
-https://dady-mq4r.onrender.com/?ID=67
-#EXTINF:-1 tvg-id="bein-5.Sports-5-turkey" tvg-name="beIN 5.Sports 5 Turkey" group-title="5.Spor" tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG",beIN 5.Sports 5 Turkey
-https://dady-mq4r.onrender.com/?ID=1010
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="5.Spor",TAY TV
 https://duhnet.hipodrom.com/S2/HLS_LIVE/mislitaynp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43023.jpeg" group-title="5.Spor",TABİİ 5.Spor
@@ -231,17 +221,8 @@ https://nw5mr1vl9xp4zk2sh7tq3gj6b.medya.trt.com.tr/master_1080p.m3u8
 https://Pz2rT7nW1mR9sH4vL6xK3gJ5b.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="Tabii 5.Spor 8" tvg-language="Turkish" tvg-country="TR" tvg-id="5.Spor8" tvg-logo="https://cms-rotf-api.tabii.com/r/int/w500/60594_0-73-1920-933.jpeg" group-title="5.Spor",Tabii 5.Spor 8
 https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VWygoj9.png" group-title="5.Spor",TRT 5.Spor
-https://tv-trt5.Spor1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VWygoj9.png" group-title="5.Spor",TRT 5.Spor YILDIZ
-https://tv-trt5.Spor2.medya.trt.com.tr/master_1440p.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZhkZzLf.png" group-title="5.Spor",A 5.Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a5.Spor/a5.Spor_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://www.ht5.Spor.com/images/manifest/social-share-logo.png" group-title="5.Spor",HT 5.Spor
-https://ciner.daioncdn.net/ht-5.Spor/ht-5.Spor.m3u8?app=web
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CYTEuoR.png" group-title="5.Spor",Ekol 5.Sports
-https://ekoltv-live.ercdn.net/ekol5.Sport/ekol5.Sport_1080p.m3u8?autoplay=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qBVqtYd.png" group-title="5.Spor",FB tv
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="5.Spor",Tjk Tv
@@ -250,10 +231,7 @@ https://tjktv-live.tjk.org/tjktv.m3u8
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="5.Spor",FİFA +
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="5.Spor",RED BULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3zHdkYG.png" group-title="5.Spor",HORSE&COUNTRY EN
-https://hnc-free-viewlift.amagi.tv/playlist720_p.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="10.Belgesel",NATIONAL GEOGRAPHIC
