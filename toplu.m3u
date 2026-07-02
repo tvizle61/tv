@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rideordie16/epg/main/bin/guide.xml"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="1.Ulusal",1. TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT 1.tr" tvg-logo="https://i.ibb.co/Bt6frts/trt2.Haber.png" group-title="1.Ulusal",1. TRT 1
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT 1.tr" tvg-logo="https://i.ibb.co/Bt6frts/trtHaber.png" group-title="1.Ulusal",1. TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a4/Kanal_D_logo.png" group-title="1.Ulusal",2. Kanal D
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
@@ -35,14 +35,14 @@ https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TRT_2.Haber_logosu_%282013-2020%29.png" group-title="2.Haber",7. Trt 2.Haber
-https://tv-trt2.Haber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/2.Haberturk_logo.png" group-title="2.Haber",4. 2.Haber Türk
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/2.Haberturktv/2.Haberturktv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="2.Haber",1. A 2.Haber
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2.Haber/a2.Haber_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/qg6q0zx.png" group-title="2.Haber",5. 2.Haber Global
-https://tv.enson2.Haber.com/2.Haberglobal/2.Haberglobal_720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TRT_Haber_logosu_%282013-2020%29.png" group-title="2.Haber",7. Trt Haber
+https://tv-trtHaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Haberturk_logo.png" group-title="2.Haber",4. Haber Türk
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/Haberturktv/Haberturktv_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="2.Haber",1. A Haber
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aHaber/aHaber_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/qg6q0zx.png" group-title="2.Haber",5. Haber Global
+https://tv.ensonHaber.com/Haberglobal/Haberglobal_720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="2.Haber",11. Ntv
 https://livetv.work/play/tr/ntv.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="2.Haber",11. Ntv
@@ -61,16 +61,16 @@ https://helga.iptv2022.com/sh/szc_tv/tracks-v4a1/mono.ts.m3u8?filter.tracks=a1v1
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="2.Haber",18. Lider 2.Haber
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="2.Haber",16. TH TÜRK2.Haber
-https://edge1.taksimbilisim.com/turk2.Haber/bant1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/tvmyeni/refs/heads/main/bg.JPG" group-title="2.Haber",16. TH TÜRKHaber
+https://edge1.taksimbilisim.com/turkHaber/bant1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="2.Haber",17. Ekol Tv
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="2.Haber",16. Flash 2.Haber
-https://flash2.Haber-live.ercdn.net/flash2.Haber/flash2.Haber_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="2.Haber",16. Flash Haber
+https://flashHaber-live.ercdn.net/flashHaber/flashHaber_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="2.Haber",19. Mavi Karadeniz
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="2.Haber",20. 2.Haber 61
-https://cdn-2.Haber61tv.yayin.com.tr/2.Haber61tv/smil:2.Haber61tv.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/24tv.png" group-title="2.Haber",20. Haber 61
+https://cdn-Haber61tv.yayin.com.tr/Haber61tv/smil:Haber61tv.smil/index.m3u8
 
 
 #EXTINF:-1 tvg-id="120" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/3261c5eb-0e08-4c96-b8fc-58211e3da29c.png" group-title="4.Çocuk",Trt 4.Çocuk
