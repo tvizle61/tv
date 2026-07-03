@@ -7,6 +7,8 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/9/92/Star_TV_.png/250px-Star_TV_.png" group-title="1.Ulusal",4. Star tv
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&app=startv_web&ce=3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/9/92/Star_TV_.png/250px-Star_TV_.png" group-title="1.Ulusal",4. Star tv
+http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" group-title="1.Ulusal",5. Show Tv
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg?_=20240319163238" group-title="1.Ulusal",6. BEYAZ TV
